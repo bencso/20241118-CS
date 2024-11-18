@@ -1,0 +1,14 @@
+C:\Users\babolnai.bence\Desktop\berek_babolnaibence\bin\Debug\net8.0\berek_babolnaibence.exe
+C:\Users\babolnai.bence\Desktop\berek_babolnaibence\bin\Debug\net8.0\berek_babolnaibence.deps.json
+C:\Users\babolnai.bence\Desktop\berek_babolnaibence\bin\Debug\net8.0\berek_babolnaibence.runtimeconfig.json
+C:\Users\babolnai.bence\Desktop\berek_babolnaibence\bin\Debug\net8.0\berek_babolnaibence.dll
+C:\Users\babolnai.bence\Desktop\berek_babolnaibence\bin\Debug\net8.0\berek_babolnaibence.pdb
+C:\Users\babolnai.bence\Desktop\berek_babolnaibence\obj\Debug\net8.0\berek_babolnaibence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babolnai.bence\Desktop\berek_babolnaibence\obj\Debug\net8.0\berek_babolnaibence.AssemblyInfoInputs.cache
+C:\Users\babolnai.bence\Desktop\berek_babolnaibence\obj\Debug\net8.0\berek_babolnaibence.AssemblyInfo.cs
+C:\Users\babolnai.bence\Desktop\berek_babolnaibence\obj\Debug\net8.0\berek_babolnaibence.csproj.CoreCompileInputs.cache
+C:\Users\babolnai.bence\Desktop\berek_babolnaibence\obj\Debug\net8.0\berek_babolnaibence.dll
+C:\Users\babolnai.bence\Desktop\berek_babolnaibence\obj\Debug\net8.0\refint\berek_babolnaibence.dll
+C:\Users\babolnai.bence\Desktop\berek_babolnaibence\obj\Debug\net8.0\berek_babolnaibence.pdb
+C:\Users\babolnai.bence\Desktop\berek_babolnaibence\obj\Debug\net8.0\berek_babolnaibence.genruntimeconfig.cache
+C:\Users\babolnai.bence\Desktop\berek_babolnaibence\obj\Debug\net8.0\ref\berek_babolnaibence.dll

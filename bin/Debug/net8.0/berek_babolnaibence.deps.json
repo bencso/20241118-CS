@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "berek_babolnaibence/1.0.0": {
+        "runtime": {
+          "berek_babolnaibence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "berek_babolnaibence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
